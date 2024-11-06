@@ -1,0 +1,1 @@
+With this project I'm starting to feel like that I'm entering a new age in web development. I scraped data from website then I showed this data in html website, I have used html and python together first time.
